@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/netfrexk" target="blank"><img src="https://img.shields.io/twitter/follow/netfrexk?logo=twitter&style=for-the-badge" alt="netfrexk" /></a> </p>
 
-- 🔭 I’m currently working on **Spritual app**
+- 🔭 I’m currently working on **FarmFresh App**
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Kotlin Multiplatform**
 
 - 👯 I’m looking to collaborate on **project**
 
