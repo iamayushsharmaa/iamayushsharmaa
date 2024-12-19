@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/netfrexk" target="blank"><img src="https://img.shields.io/twitter/follow/netfrexk?logo=twitter&style=for-the-badge" alt="netfrexk" /></a> </p>
 
-- 🔭 I’m currently working on **FarmFresh App**
+- 🔭 I’m currently working on **HabitTrack App**
 
 - 🌱 I’m currently learning **Kotlin Multiplatform**
 
 - 👯 I’m looking to collaborate on **project**
 
-- 🤝 I’m looking for help with **project**
+- 🤝 I’m looking for help with **projects**
 
 - 💬 Ask me about **Kotlin,Android**
 
