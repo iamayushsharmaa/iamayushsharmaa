@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Kotlin Multiplatform**
+- 🌱 I’m currently learning **FLutter - Cross platform**
 
 - 💬 Ask me about **Kotlin,Android,Ktor**
 
