@@ -1,5 +1,5 @@
 ## Hi, I'm Ayush👋
- I'm a Mobile App Developer passionate about crafting intuitive and impactful mobile experiences. My focus is on building apps that solve real-world problems using Flutter and Android.
+ I'm a Mobile App Developer passionate about crafting intuitive and impactful mobile experiences. My focus is on building apps that solve real-world problems and contributing to open source.
 
 ## 🔍 About Me
 
