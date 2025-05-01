@@ -1,6 +1,6 @@
 ### Hi,I'm Ayush👋
 
-🔍 About Me
+## 🔍 About Me
 
 
 
