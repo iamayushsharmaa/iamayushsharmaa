@@ -1,6 +1,10 @@
 ### Hi,I'm Ayush👋
 
-Here are some ideas to get you started:
+🔍 About Me
+
+
+
+
 
 💻 Working on personal projects to explore mobile development.
 
