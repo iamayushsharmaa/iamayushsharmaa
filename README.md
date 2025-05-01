@@ -1,7 +1,13 @@
 ### Hi,I'm Ayush👋
 
+**GeraudLuku/GeraudLuku** is a ✨_special✨ repository because its 'README.md' (this file) appears on your Github profile.
 
+Here are some ideas to get you started:
 
+-I'm a Mobile App Developer
+-I'm currently working on personal projects.
+-I'm currently learning Flutter.
+-I'm looking for internships.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/netfrexk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-sharma-a716b5252) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/netfrexk) 
