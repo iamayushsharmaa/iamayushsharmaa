@@ -7,7 +7,7 @@
 
 
 
-💻 Working on personal projects to explore mobile development.
+💻 Working on personal SaaS projects to explore mobile development.
 
 
 
