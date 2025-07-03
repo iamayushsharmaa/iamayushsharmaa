@@ -11,7 +11,7 @@
 
 
 
-🌱 Learning Flutter to craft cross-platform apps and Spring boot.
+🌱 Learning Flutter, Kotlin Multiplatform and Spring boot.
 
 
 
