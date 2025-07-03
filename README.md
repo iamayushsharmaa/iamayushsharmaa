@@ -11,7 +11,7 @@
 
 
 
-🌱 Learning Flutter, Kotlin Multiplatform and Spring boot.
+🌱 Learning Flutter, Kotlin/Compose Multiplatform and Spring boot.
 
 
 
