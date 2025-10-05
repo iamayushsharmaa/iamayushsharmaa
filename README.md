@@ -7,11 +7,11 @@
 
 
 
-💻 Working on personal SaaS projects to explore mobile development.
+💻 Working with Flutter, Kotlin and Spring boot.
 
 
 
-🌱 Learning Flutter, Kotlin/Compose Multiplatform and Spring boot.
+🌱 Learning SwiftUi and Spring boot.
 
 
 
