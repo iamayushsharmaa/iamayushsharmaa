@@ -11,7 +11,7 @@
 
 
 
-🌱 Learning SwiftUi and Spring boot.
+🌱 Learning Ios and Backend Development.
 
 
 
